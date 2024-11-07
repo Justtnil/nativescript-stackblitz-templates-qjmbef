@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+    background-color: #6750A4;
+    color: white;
+}
+
+.action-bar {
+    background-color: #6750A4;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #6750A4;
+    color: white;
+    font-size: 16;
+    font-weight: bold;
+    padding: 12;
+    border-radius: 4;
+}
+
+.note-card {
+    background-color: white;
+    border-radius: 8;
+    margin: 8;
+    padding: 16;
+    elevation: 2;
+}
